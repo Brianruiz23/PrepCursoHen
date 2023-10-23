@@ -3,15 +3,18 @@
 
 function devolverString(string) {
    // Debe retornar un string.
-   // Tu código:
+   // Tu código: 
+ return "Henry";
 }
-
 // ⛔️ "X" e "Y" son números.
 
 function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código:
+    return x + y;
+    
 }
+
 
 function resta(x, y) {
    // Retorna el resultado de la resta.
